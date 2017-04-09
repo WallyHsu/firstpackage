@@ -1,0 +1,15 @@
+{
+    "name": "wally/first",
+    "authors": [
+        {
+            "name": "Wally Hsu",
+            "email": "xxx7317311@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wally\\First\\": "src/"
+        }
+    }
+}
